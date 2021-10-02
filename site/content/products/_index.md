@@ -11,7 +11,7 @@ intro:
         I am a results-driven SEO consultant with specialisms in technical SEO,
         structured data, digital strategy, SEO audits, and e-commerce. An
         excellent communicator, I am able to advise a range of stakeholders from
-        Executive Boards to Developer teams to ensure successful SEO
+        Executive Boards to Developer teams to ensure successful SEO [Visible text](http://example.org/path/to/file)
         implementation.
     - image: /img/illustrations-coffee-gear.svg
       text: >
