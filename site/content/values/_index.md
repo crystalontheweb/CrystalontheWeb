@@ -21,14 +21,12 @@ values:
     text: My SEO articles and research have been featured in some of the industry's
       leading publications including Moz and Search Engine Land. I have shared
       knowledge through contributions to the State of Technical SEO Report,
-      DeepCrawl White Paper, Semrush blog, the SEO in 2022 book and more.
+      DeepCrawl White Paper, Semrush blog, the SEO in 2022 book and SEO news
+      outlets.
     imageUrl: img/about-reinvest-profits.jpg
   - heading: SEO Guest Speaker
     text: I also talk. A lot! Gratefully this skill has come in handy as a panellist
-      for live webinars with
-      [Semrush](https://www.semrush.com/webinars/how-to-leverage-keyword-intent-to-get-more-traffic-and-boost-conversions/),
-      [Majestic](https://youtu.be/9g3l4P2hv7c?t=4278),
-      [Inlinks](https://www.youtube.com/watch?v=7MekZU0nx60) and BrightonSEO.
+      for live webinars with Semrush, Majestic, Inlinks and BrightonSEO.
     imageUrl: img/about-sustainable-farming.jpg
   - text: An avid user of social media, I have created bespoke influencer content
       for brands like Content King, Semrush, Lush and Digital Gaggle.
