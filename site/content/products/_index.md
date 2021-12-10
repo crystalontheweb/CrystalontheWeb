@@ -1,6 +1,6 @@
 ---
 title: Consultancy Sevices
-image: /img/products-jumbotron.jpg
+image: img/about-jumbotron.jpg
 heading: What I Bring to the Table
 description: Find out more about how I help businesses and organisations to
   improve performance on search and better understand the search landscape.
@@ -66,8 +66,8 @@ pricing:
         - 20 point SEO Foundations Priority List
         - Video Walk Through of Opportunities
         - Template For Basic SEO Updates
-      plan: Small Site 
-      price: Foundation 
+      plan: Small Site
+      price: Foundation
     - description: For sites with upto 3000 URLs
       items:
         - Strategic Tech SEO Audit
