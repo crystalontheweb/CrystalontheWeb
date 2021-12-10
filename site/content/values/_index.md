@@ -28,7 +28,7 @@ values:
       for live webinars with
       [Semrush](https://www.semrush.com/webinars/how-to-leverage-keyword-intent-to-get-more-traffic-and-boost-conversions/),
       [Majestic](https://youtu.be/9g3l4P2hv7c?t=4278),
-      [Inlinks](https://www.youtube.com/watch?v=7MekZU0nx60) and Brighton SEO.
+      [Inlinks](https://www.youtube.com/watch?v=7MekZU0nx60) and BrightonSEO.
     imageUrl: img/about-sustainable-farming.jpg
   - text: An avid user of social media, I have created bespoke influencer content
       for brands like Content King, Semrush, Lush and Digital Gaggle.
