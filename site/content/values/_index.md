@@ -1,40 +1,25 @@
 ---
-title: Values
+title: About
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
+  - heading: Experienced SEO & Digital Marketer
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+      My name is Crystal Carter and I am an SEO & Digital Marketing professional with over 15 years experience working with SEO and Marketing clients around the world. My in-house experience includes working multinational TOMY and in the UK public sector. My agency experience includes work with clients like Kelloggs, Tesco, and McDonalds. While my freelance client roster includes Kikoman, National Trust, Talent Inc, The Southbank Centre and more.
     imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
+  - heading: SEO Conference Speaker
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+      I have been fortunate to speak at tpp digital marketing conferences for worldwide audiences includeing SMX Advanced, Brighton SEO, Whitespark Local Search Summit, SMXNext, DeepCrawl Live, Womend in Tech SEO, Optix Digital Trends, Digital Gaggle, and more. 
     imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
+  - heading: SEO Writer & Contributor
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+      My SEO articles and research have been featured in some of the industry's leading publications including Moz and Search Engine Land. I have shared knowledge through contributions to the State of Technical SEO Report, DeepCrawl White Paper, Semrush blog, the SEO in 2022 book and more.
     imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
+  - heading: SEO Guest Speaker
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    I also talk. A lot! Gratefully this skill has come in handy as a panelist for live webinars with [Semrush](https://www.semrush.com/webinars/how-to-leverage-keyword-intent-to-get-more-traffic-and-boost-conversions/), [Majestic](https://youtu.be/9g3l4P2hv7c?t=4278), [Inlinks](https://www.youtube.com/watch?v=7MekZU0nx60) and Brighton SEO. 
     imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
+  - heading: Influence Marketing
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+      An avid user of social media, I have created bespoke influencer content for brands like Content King, Semrush, Lush and Digital Gaggle.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
