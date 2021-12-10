@@ -1,9 +1,11 @@
 ---
-title: 17 Places to Increase Your Online Marketing Skills in 2020 Without Spending a Dime
+title: 17 Places to Increase Your Online Marketing Skills in 2020 Without
+  Spending a Dime
 date: 2020-05-06T15:04:10.000Z
-description: >-
-  Digital marketing is relentlessly dynamic and in my role as a Senior Digital Strategist, I’ve found that one of the most effective tactics you can take is to master your tools by upskilling.
-image: /img/blog-chemex.jpg
+description: Digital marketing is relentlessly dynamic and in my role as a
+  Senior Digital Strategist, I’ve found that one of the most effective tactics
+  you can take is to master your tools by upskilling.
+image: img/about-sustainable-farming.jpg
 ---
 
 
