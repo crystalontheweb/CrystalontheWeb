@@ -2,7 +2,7 @@
 title: About
 image: img/home-jumbotron.jpg
 values:
-  - imageUrl: img/about-direct-sourcing.jpg
+  - imageUrl: img/crystalcarter_200118_0056.jpg
     text: My name is Crystal Carter and I am an SEO & Digital Marketing professional
       with over 15 years of experience working with SEO and Marketing clients
       around the world. My in-house experience includes working in multinational
