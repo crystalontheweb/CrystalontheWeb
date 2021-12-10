@@ -27,7 +27,7 @@ values:
   - heading: SEO Guest Speaker
     text: I also talk. A lot! Gratefully this skill has come in handy as a panellist
       for live webinars with Semrush, Majestic, Inlinks and BrightonSEO.
-    imageUrl: img/about-sustainable-farming.jpg
+    imageUrl: img/crystal-carter-semrush-webinar.jpg
   - text: An avid user of social media, I have created bespoke influencer content
       for brands like Content King, Semrush, Lush and Digital Gaggle.
     heading: Influencer Marketing
