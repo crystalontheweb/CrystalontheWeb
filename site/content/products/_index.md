@@ -44,7 +44,7 @@ main:
     image: img/speaker-slide-template-j21-002-.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/wtseo.png
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
