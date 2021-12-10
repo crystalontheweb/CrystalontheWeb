@@ -56,31 +56,31 @@ testimonials:
     quote: SEO's Sasha Fierce
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Support Packages
   description: We make it easy to make great coffee a part of your life. Choose
     one of our monthly subscription plans to receive great coffee at your
     doorstep each month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: For sites with less than 500 URLs
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: Bronze
-    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
+        - 20 point SEO Foundations Priority List
+        - Video Walk Through of Opportunities
+        - Template For Basic SEO Updates
+      plan: Small Site 
+      price: Foundation 
+    - description: For sites with upto 3000 URLs
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: Silver
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Strategic Tech SEO Audit
+        - Review & Recommendation Document
+        - Recorded Meeting Discussing Recommendations & Next Steps
+      plan: Audit, Review & Reccomendations
+      price: Audit
+    - description: Bespoke SEO & Digital Support That Moves the Needle
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - SEO, CRO, PPC, and/or Backlink Review & Recommenations
+        - Support via Training, Coaching and/or Consultancy
+        - AOB, because it really does depend
       plan: Custom
-      price: Gold
+      price: It Depends
 type: products
 ---
