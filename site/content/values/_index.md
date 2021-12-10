@@ -16,7 +16,7 @@ values:
       worldwide audiences includeing SMX Advanced, Brighton SEO, Whitespark
       Local Search Summit, SMXNext, DeepCrawl Live, Women in Tech SEO, Optix
       Digital Trends, Digital Gaggle, and more.
-    imageUrl: img/blog-chemex.jpg
+    imageUrl: img/speaker-slide-template-j21-002-.jpg
   - heading: SEO Writer & Contributor
     text: My SEO articles and research have been featured in some of the industry's
       leading publications including Moz and Search Engine Land. I have shared
