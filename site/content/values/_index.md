@@ -23,7 +23,7 @@ values:
       knowledge through contributions to the State of Technical SEO Report,
       DeepCrawl White Paper, Semrush blog, the SEO in 2022 book and SEO news
       outlets.
-    imageUrl: img/about-reinvest-profits.jpg
+    imageUrl: img/crystal-carter_schema-moz.jpg
   - heading: SEO Guest Speaker
     text: I also talk. A lot! Gratefully this skill has come in handy as a panellist
       for live webinars with Semrush, Majestic, Inlinks and BrightonSEO.
